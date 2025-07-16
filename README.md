@@ -6,7 +6,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZzZTkxOGw4cHp2dWJpOTFkYWJjZmt5N25rbG9vaXg3c3Z2djNnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADNR56SfLLXon86MCN/giphy.gif" />
 </p>
 
-# I'm a software developer. 
+# I'm a Creator. 
 **_There is one step before your idea comes to life, and that step is me!_**
 
 > I started coding when I was just 14 years old (learning C ofcourse) and then changed my specialty into web development and learned some basic stuff like HTML, CSS, JavaScript, Bootstrap, jQuery (Yeah, I'm kinda old now). My first serious project came to life around the same year (2019).
