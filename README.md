@@ -11,7 +11,7 @@
 
 > I started coding when I was just 14 years old (learning C ofcourse) and then changed my specialty into web development and learned some basic stuff like HTML, CSS, JavaScript, Bootstrap, jQuery (Yeah, I'm kinda old now). My first serious project came to life around the same year (2019).
 
-Since then, I've made pretty cool shit! from a whole web server in C++ (using painful sweat QT framework), to crypto currency exchanges (project got canceled like a lot of web3 projects XD), working in a startup that failed in 3 months, CLI tools in GoLang, 3d websites using three js, etc.
+Since then, I've made pretty cool shit! from a whole web server in C++ (using painful sweet QT framework), to crypto currency exchanges (project got canceled like a lot of web3 projects XD), working in a startup that failed in 3 months, CLI tools in GoLang, 3d websites using three js, etc.
 
 *Using my knowledge about software development and programming, I can bring your beloved Idea to life.*
 
@@ -37,7 +37,7 @@ Feel free to reach out!
 ## More About Me & My Interests
 ```yml
 name: Alisina Soltani
-current_job: ["Full Stack Developer", "researching About My Ideas"],
+current_job: ["Full Stack Developer", "Researching About My Ideas"],
 education: [
 "Self-Taught Developer and Designer",
 "Mathematics and Applications Student in Isfahan University of Technology"
@@ -87,8 +87,6 @@ hobbies: [
 <p align="center">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisinasoltani&layout=compact&hide=C,Makefile,CMake,cpp,CPP,Cpp,c++,C++&langs_count=10" />
 </p>
-
-![Snake animation](https://github.com/alisinasoltani/alisinasoltani/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" />
