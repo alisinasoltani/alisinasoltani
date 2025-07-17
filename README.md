@@ -80,8 +80,16 @@ hobbies: [
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-
 </p>
+<p align="center">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alisinasoltani&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisinasoltani&layout=compact&hide=C,Makefile,CMake,cpp,CPP,Cpp,c++,C++&langs_count=10" />
+</p>
+
+![Snake animation](https://github.com/alisinasoltani/alisinasoltani/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" />
 </p>
