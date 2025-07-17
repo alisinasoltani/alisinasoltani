@@ -44,8 +44,6 @@ education: [
 ]
 fields_of_interests: [
 "AI Agents",
-"Data Science",
-"Machine Learning",
 "UI/UX",
 "Web Development,
 ]
