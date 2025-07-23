@@ -11,11 +11,18 @@
 
 > I started coding when I was just 14 years old (learning C ofcourse) and then changed my specialty into web development and learned some basic stuff like HTML, CSS, JavaScript, Bootstrap, jQuery (Yeah, I'm kinda old now). My first serious project came to life around the same year (2019).
 
-Since then, I've made pretty cool shit! from a whole web server in C++ (using painful sweet QT framework), to crypto currency exchanges (project got canceled like a lot of web3 projects XD), working in a startup that failed in 3 months, CLI tools in GoLang, 3d websites using three js, etc.
+Since then, I've worked on all kinds of cool shit —
+- Built a full web server in C++ (with the wonderfully painful Qt framework)
+- Helped develop a crypto exchange (yep, it got canceled... like a lot of Web3 projects)
+- Joined a startup that died in 3 months 💀
+- Created CLI tools in GoLang
+- Developed immersive 3D websites with Three.js
 
-*Using my knowledge about software development and programming, I can bring your beloved Idea to life.*
+And much more.
 
-Feel free to reach out!
+_Using my experience in software development and creative problem-solving, I can help bring your ideas to life — whether it's a small tool or a full-scale product._
+
+Feel free to reach out — I’m always up for a good project or a great conversation!
 <p align="right">
   <img src="https://github.com/alisinasoltani/alisinasoltani/raw/main/9054914.png" alt="Profile Picture" width="100" style="vertical-align: middle;">
 </p>
